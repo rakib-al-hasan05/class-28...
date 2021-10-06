@@ -1,0 +1,62 @@
+header a img{
+    width: 90px;
+}
+.banner div h4{
+    margin-top: 140px;
+    font-weight: 400;
+}
+.banner div h1{
+    font-weight: 400;
+    font-size: xxx-large;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.banner-footer h5{
+    margin-top: 45px;
+}
+.banner-footer h1{
+    font-size: 50px;
+    font-weight: 400;
+    margin: 15px 0;
+}
+.counter{
+    background-color: #6278df;
+    padding: 20px 0;
+}
+.box{
+    background-color: #f3f4fd;
+}
+.box-p{
+    line-height: 60px;
+    color: #767676;
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+.last{
+    padding-top: 109px;
+    background: #f8f8f8;
+}
+.last .dig{
+    box-shadow: 1px 7px 12px 4px #ddd;
+}
+.pok {
+    text-align: left;
+    margin-left: 15px;
+}
+.pok img{
+    width: 90px;
+    margin-bottom: 15px;
+    margin-top: -55px;
+}
+.rakib{
+    background: #f3f4fd;
+}
+.rakib h3 {
+    margin-top: 77px;
+}
+.rakib p {
+    line-height: 41px;
+}
+.a-bg{
+    background: #f9f9ff;
+}
